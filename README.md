@@ -1,2 +1,3 @@
 # Calculator
 This repository houses a simple yet functional calculator built using HTML, CSS, and JavaScript. With a clean and intuitive user interface, this calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division effortlessly.
+Designed with accessibility and responsiveness in mind, it adapts seamlessly to various screen sizes, making it accessible across different devices. Whether you're a beginner looking to explore front-end web development or an experienced developer seeking inspiration, this project serves as an excellent starting point to understand the fundamentals of web development and JavaScript programming.
